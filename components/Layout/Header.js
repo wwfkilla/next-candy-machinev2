@@ -10,7 +10,7 @@ export default function Header() {
       <div className="mr-auto pl-3">
         <Link
           passHref
-          href="https://google.com"
+          href="https://www.solanacarclub.com"
           className="hover:cursor-pointer"
         >
           <a
