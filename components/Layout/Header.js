@@ -45,7 +45,7 @@ export default function Header() {
           rel="noopener noreferrer"
         >
           <Image
-            src="/discord-logo.svg"
+            src="/discord-logo.png"
             style={{ color: "#fff" }}
             height="40px"
             width="40px"
@@ -60,7 +60,7 @@ export default function Header() {
           rel="noopener noreferrer"
         >
           <Image
-            src="/twitter-logo.svg"
+            src="/twitter-icon.png"
             height="40px"
             width="40px"
             alt="twitter"
